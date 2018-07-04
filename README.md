@@ -18,3 +18,5 @@ Será gerado um arquivo chamado "unionFile.dat", com a união dos dois arquivos 
 Interseção:
 Executar intersection.py
 Será gerado um arquivo chamado "intersectionFile.dat", com a interseção dos dois arquivos csv.
+
+Arquivos tirados do site: http://www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos
